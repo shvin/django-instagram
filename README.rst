@@ -51,7 +51,7 @@ In Django 2.0 (recommended):
 
   python manage.py makemigrations django_instagram
 
-Them migrate the db:
+Then migrate the db:
 
 .. code-block:: bash
 
